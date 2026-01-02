@@ -12811,6 +12811,10 @@ realm.cz
 // Submitted by Baptiste Jamin <hostmaster@crisp.chat>
 on.crisp.email
 
+// Crusoe Cloud : https://crusoe.ai/
+// Submitted by Cris Lingad <security@crusoe.ai>
+*.crusoecloudcompute.com
+
 // Cryptonomic : https://cryptonomic.net/
 // Submitted by Andrew Cady <public-suffix-list@cryptonomic.net>
 *.cryptonomic.net
